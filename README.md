@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JubayarHassan
 - 👀 I’m interested in Coding Websites
-- 🌱 I’m currently Making a News Website
+- 🌱 I’m currently Building a News Website
 - 💞️ I’m looking to collaborate on building a website
 - 📫 How to reach me jubayarhassan5233@gmail.com
 
